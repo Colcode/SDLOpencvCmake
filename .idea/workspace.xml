@@ -70,7 +70,7 @@
           <entry key="gradle" value="5" />
           <entry key="h" value="1" />
           <entry key="java" value="1" />
-          <entry key="md" value="4" />
+          <entry key="md" value="5" />
           <entry key="txt" value="2" />
           <entry key="xml" value="2" />
         </counts>
@@ -82,7 +82,7 @@
           <entry key="Image" value="1" />
           <entry key="JAVA" value="1" />
           <entry key="ObjectiveC" value="14" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -91,7 +91,7 @@
           <entry key="c" value="2" />
           <entry key="cpp" value="210" />
           <entry key="gradle" value="15" />
-          <entry key="md" value="109" />
+          <entry key="md" value="212" />
           <entry key="txt" value="32" />
           <entry key="xml" value="3" />
         </counts>
@@ -101,7 +101,7 @@
           <entry key="CMakeLists.txt" value="32" />
           <entry key="Groovy" value="15" />
           <entry key="ObjectiveC" value="212" />
-          <entry key="PLAIN_TEXT" value="109" />
+          <entry key="PLAIN_TEXT" value="212" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
@@ -109,6 +109,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/cpp/main_default.c">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,11 +127,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/cpp/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            <state relative-caret-position="198">
+              <caret line="9" column="77" lean-forward="true" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -131,7 +140,10 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/cpp/main.c">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,7 +152,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/cpp/opencv_camera_test.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="59" column="51" lean-forward="true" selection-end-line="160" />
+              <caret line="59" column="51" selection-end-line="160" />
             </state>
           </provider>
         </entry>
@@ -176,9 +188,9 @@
         <option value="$PROJECT_DIR$/app/src/main/cpp/main_default.c" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/app/src/main/cpp/main.c" />
         <option value="$PROJECT_DIR$/app/src/main/cpp/main.cpp" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -253,15 +265,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="jniLibs" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="sdlapp-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sdlapp-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="jniLibs" type="462c0819:PsiDirectoryNode" />
-              <item name="armeabi-v7a" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -274,14 +277,14 @@
     <property name="device.picker.selection" value="9798433c0804" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\colcode\tempproject\download\sdlapp-master\app\src\main\jniLibs\armeabi-v7a" />
-      <recent name="E:\colcode\tempproject\download\sdlapp-master\app\src\main\jniLibs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\colcode\tempproject\download\sdlapp-master\app\src\main\cpp" />
       <recent name="E:\colcode\tempproject\download\sdlapp-master\app" />
       <recent name="E:\colcode\tempproject\download\sdlapp-master\app\src\main\cpp\include" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\colcode\tempproject\download\sdlapp-master\app\src\main\jniLibs\armeabi-v7a" />
+      <recent name="E:\colcode\tempproject\download\sdlapp-master\app\src\main\jniLibs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -474,13 +477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/cpp/SDL_android_main.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1254">
@@ -495,24 +491,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/cpp/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/cpp/opencv_camera_test.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="59" column="51" lean-forward="true" selection-end-line="160" />
+          <caret line="59" column="51" selection-end-line="160" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/cpp/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        <state relative-caret-position="198">
+          <caret line="9" column="77" lean-forward="true" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/cpp/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>

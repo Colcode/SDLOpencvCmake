@@ -1,5 +1,8 @@
 博客地址：https://blog.csdn.net/gongxp123456/article/details/62418752
 
+如果C 代码有报有红色错误导包，别急---> Android studio --> Build --> Refresh Linked C++ Projects
+
+
 CMake 整合SDL 和 Opencv 测试c++情况下是否可以打开手机摄像头,
 VideoCapture cap;
     //open camera
