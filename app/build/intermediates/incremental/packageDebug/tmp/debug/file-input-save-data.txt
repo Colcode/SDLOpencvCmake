@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Thu May 30 18:13:19 CST 2019
+2.base=E\:\\colcode\\tempproject\\download\\sdlapp-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=lib/armeabi-v7a/libmain.so
+2.baseType=DIRECTORY
+3.base=E\:\\colcode\\tempproject\\download\\sdlapp-master\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+2.set=DEX
+1.path=lib/armeabi-v7a/libSDL2.so
+4.base=E\:\\colcode\\tempproject\\download\\sdlapp-master\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+count=5
+2.path=classes.dex
+4.set=ASSET
+3.path=lib/armeabi-v7a/libopencv_java3.so
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=image.bmp
+1.baseType=DIRECTORY
+0.base=E\:\\colcode\\tempproject\\download\\sdlapp-master\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+1.base=E\:\\colcode\\tempproject\\download\\sdlapp-master\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE
