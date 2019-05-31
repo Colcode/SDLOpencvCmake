@@ -1,4 +1,4 @@
-#Thu May 30 18:13:19 CST 2019
+#Fri May 31 10:46:24 CST 2019
 base.0=E\:\\colcode\\tempproject\\download\\sdlapp-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex

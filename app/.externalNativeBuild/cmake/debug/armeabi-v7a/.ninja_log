@@ -1,0 +1,4 @@
+# ninja log v5
+16	5643	0	CMakeFiles/main.dir/src/main/cpp/SDL_android_main.c.o	e11da05992d8e034
+43	9834	0	CMakeFiles/main.dir/src/main/cpp/main.cpp.o	f3dedd06a57ab022
+9836	10679	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libmain.so	a412d32d00566028
