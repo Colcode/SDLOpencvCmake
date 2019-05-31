@@ -2,7 +2,7 @@
 
 如果C 代码有报有红色错误导包，别急---> Android studio --> Build --> Refresh Linked C++ Projects
 
-
+目前是手动赋予APP 相机权限
 CMake 整合SDL 和 Opencv 测试c++情况下是否可以打开手机摄像头,
 VideoCapture cap;
     //open camera
